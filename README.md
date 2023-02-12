@@ -1,2 +1,3 @@
-# Sonic3v4
-Sonic 3 in RSDKv4...!!!!!!
+# Sonic 3 v4
+This is Sonic 3 remade in RSDKv4
+The files will probably be released around 2/25/23, I still need to set things up.......
