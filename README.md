@@ -1,3 +1,2 @@
 # Sonic 3 v4
-This is Sonic 3 remade in RSDKv4
-The files will probably be released around 2/25/23, I still need to set things up.......
+This is Sonic 3 remade in RSDKv4. This is a very early build, so it might have some glitches.
